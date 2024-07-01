@@ -1,7 +1,7 @@
 import React from 'react';
 
-const TopRatedIndianMovies: React.FC = () => {
+const TopRatedIndian: React.FC = () => {
   return <div></div>;
 };
 
-export default TopRatedIndianMovies;
+export default TopRatedIndian;

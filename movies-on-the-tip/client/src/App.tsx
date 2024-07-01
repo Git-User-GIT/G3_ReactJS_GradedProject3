@@ -104,7 +104,6 @@ const App: React.FC = () => {
         selectedCategory={category} 
       />
       <Routes>
-        <Route path="/" element={<ComingSoon />} />
         <Route path="/movies-coming" element={<ComingSoon />} />
         <Route path="/movies-in-theaters" element={<InTheaters />} />
         <Route path="/top-rated-india" element={<TopRatedIndian />} />
